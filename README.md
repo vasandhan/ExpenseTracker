@@ -1,4 +1,7 @@
-# ExpenseTracker
-clone the project 
-open the project in terminal and run npm install 
-after npm install, can start project by npm start
+## Expense Tracker
+
+- 🙋‍♂️ Clone the Project.
+- 👨‍💻 Run cmd : npm update
+- 👨‍💻 Run cmd : npm start
+
+##  Start work on Expense Tracker
